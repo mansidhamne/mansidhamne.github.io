@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "",
+          description: "Coming soon!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -117,7 +117,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/mansidhamne", "_blank");
+          window.open("https://www.linkedin.com/in/mansi-dhamne", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -132,13 +132,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/mansidhamne", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
