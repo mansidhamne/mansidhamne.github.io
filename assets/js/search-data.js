@@ -37,14 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-presenting-my-paper-oral-session-emnlp-2025-suzhou-china",
-          title: 'Presenting my paper (Oral Session) @ EMNLP 2025, Suzhou, China',
-          description: "",
-          section: "News",},{id: "news-selected-for-summer-undergraduate-research-fellowship-at-purdue-university",
+        },{id: "news-selected-for-summer-undergraduate-research-fellowship-at-purdue-university",
           title: 'Selected for Summer Undergraduate Research Fellowship at Purdue University!',
           description: "",
           section: "News",},{id: "news-selected-as-ibm-maitreyee-2025-research-showcase-winner",
           title: 'Selected as IBM Maitreyee 2025 Research Showcase Winner',
+          description: "",
+          section: "News",},{id: "news-presenting-my-paper-oral-session-emnlp-2025-suzhou-china",
+          title: 'Presenting my paper (Oral Session) @ EMNLP 2025, Suzhou, China',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
