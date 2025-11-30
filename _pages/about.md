@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -34,10 +34,10 @@ publications:
 
 Hi, I'm **Mansi Dhamne**, a final-year Computer Engineering student at Sardar Patel Institute of Technology driven by a core belief: **AI should strengthen human well-being and remain grounded in human needs.**
 
-I'm currently a **Research Intern at IIT Bombay** under [Dr. Preeti Rao]() working on prosodic boundary prediction for child-directed speech systems, and I recently completed a **Research Fellowship at Purdue University** under [Dr. Matthew Ward]() where I designed **Health Persona™**, a multimodal monitoring platform for chronic illness management. My research has been published at **EMNLP 2025** and accepted to **AAAI 2026 workshops**, focusing on robust and interpretable AI for healthcare applications.
+I'm currently a Research Intern at IIT Bombay under [Dr. Preeti Rao]() working on prosodic boundary prediction for child-directed speech systems, and I recently completed a Research Fellowship at Purdue University under [Dr. Matthew Ward]() where I designed Health Persona™, a multimodal monitoring platform for chronic illness management. My research has been published at EMNLP 2025 and accepted to AAAI 2026 workshops, focusing on robust and interpretable AI for healthcare applications.
 
 My research focuses on building AI systems that remain reliable under the conditions that typically break them. I'm particularly interested in:  
 1. Designing multimodal systems that capture the depth of human behavior across contexts  
 2. Developing interpretability methods that reveal when and why models become unstable
 
-Previously, I've worked as a **Software Development Engineer Intern** at two startups, and I'm honored to have been recognized as the **IBM Maitreyee 2025 Research Showcase Winner**.
+Previously, I've worked as a Software Development Engineer Intern at two startups, and I'm honored to have been recognized as the IBM Maitreyee 2025 Research Showcase Winner.
