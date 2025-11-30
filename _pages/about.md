@@ -25,10 +25,17 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+publications:
+  enabled: true
+  scrollable: false
+  limit: 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Mansi Dhamne, a final-year Computer Engineering student at Sardar Patel Institute of Technology driven by a core belief: **AI should strengthen human well-being and remain grounded in human needs.** I'm currently a Research Intern at IIT Bombay under [Dr. Preeti Rao]() working on prosodic boundary prediction for child-directed speech systems, and I recently completed a Research Fellowship at Purdue University under [Dr. Matthew Ward]() where I designed Health Persona™ - a multimodal monitoring platform for chronic illness management. My research has been published at EMNLP 2025 and accepted to AAAI 2026 workshops, focusing on robust and interpretable AI for healthcare applications.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on building AI systems that remain reliable under the conditions that typically break them. I'm particularly interested in: 
+  (1) designing multimodal systems that capture the depth of human behavior across contexts, and
+  (2) developing interpretability methods that reveal when and why models become unstable
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I've worked as a Software Development Engineer Intern at two startups, and I'm honored to have been recognized as the IBM Maitreyee 2025 Research Showcase Winner.
