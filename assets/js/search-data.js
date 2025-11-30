@@ -37,19 +37,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-submenus",
-          title: "submenus",
+        },{id: "news-presenting-my-paper-oral-session-emnlp-2025-suzhou-china",
+          title: 'Presenting my paper (Oral Session) @ EMNLP 2025, Suzhou, China',
           description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/_pages/dropdown.html";
-          },
-        },{id: "news-announcement-2",
-          title: 'Announcement_2',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-selected-for-summer-undergraduate-research-fellowship-at-purdue-university",
+          section: "News",},{id: "news-selected-for-summer-undergraduate-research-fellowship-at-purdue-university",
           title: 'Selected for Summer Undergraduate Research Fellowship at Purdue University!',
           description: "",
           section: "News",},{id: "news-selected-as-ibm-maitreyee-2025-research-showcase-winner",
