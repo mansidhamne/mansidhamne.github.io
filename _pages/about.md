@@ -32,9 +32,10 @@ publications:
   limit: 
 ---
 
-Hi, I'm **Mansi Dhamne**, a final-year Computer Engineering student at Sardar Patel Institute of Technology driven by a core belief: **AI should strengthen human well-being and remain grounded in human needs.**
+Hi, I'm <span style="color:#0076df;">Mansi Dhamne</span>, a final-year Computer Engineering student at Sardar Patel Institute of Technology driven by a core belief: _AI should strengthen human well-being and remain grounded in human needs._
 
-I'm currently a Research Intern at IIT Bombay under [Dr. Preeti Rao]() working on prosodic boundary prediction for child-directed speech systems, and I recently completed a Research Fellowship at Purdue University under [Dr. Matthew Ward]() where I designed Health Persona™, a multimodal monitoring platform for chronic illness management. My research has been published at EMNLP 2025 and accepted to AAAI 2026 workshops, focusing on robust and interpretable AI for healthcare applications.
+
+I'm currently a Research Intern at IIT Bombay under [Dr. Preeti Rao]() working on prosodic boundary prediction for child-directed speech systems, and I recently completed a Research Fellowship at Purdue University under [Dr. Matthew Ward]() where I designed Health Persona™, a multimodal monitoring platform for chronic illness management. My research has been published at <span style="color:#0076df;">EMNLP 2025</span> and accepted to <span style="color:#0076df;">AAAI 2026 workshops</span>, focusing on robust and interpretable AI for healthcare applications.
 
 My research focuses on building AI systems that remain reliable under the conditions that typically break them. I'm particularly interested in:  
 1. Designing multimodal systems that capture the depth of human behavior across contexts  
